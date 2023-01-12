@@ -9,4 +9,4 @@ Project has Book, Customer, InsertProduct and SaleProduct Rest API's with GRUD o
  Mockito, 
  Mapstruct, 
  Lombok
- The Database part use H2 in memory DB, BTW it's not big deal to switch in other Database like Postgrase, in my other project you can find Dockerized Postgrate.
+ The Database part use H2 in memory DB.
